@@ -8,4 +8,3 @@ export const geoApi = async (ipAddressKey : string|null): Promise<GeoResponse> =
   return res.json();
 };
    
-
