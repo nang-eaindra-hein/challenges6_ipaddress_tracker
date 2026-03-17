@@ -143,7 +143,7 @@
     </div>
   </div>
 
-  <!--map success-->
+  <!--map -->
   <div class="w-full relative grid place-items-center z-0">
     {#if geoQuery.isPending}
       <div
